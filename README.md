@@ -1,1 +1,1 @@
-Current project is to deconstruct then construct a website. So far, I've learned git basics, html basics, and css basics.
+Current project is to reconstruct the basics of the google homepage. So far, I've learned the basics of git, html, and css.
