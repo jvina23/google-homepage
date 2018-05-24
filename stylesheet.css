@@ -1,3 +1,14 @@
-p {
+.active {
+  padding-left: 20px;
+  padding-right: 35px;
+}
 
+.store {
+  padding-right: 1115px;
+}
+.gmail {
+  padding-right: 35px;
+}
+.images {
+  padding-right: 35px;
 }
